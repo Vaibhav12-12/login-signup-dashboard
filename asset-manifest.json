@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/login-signup-dashboard/static/css/main.b4cf9ec2.css",
+    "main.js": "/login-signup-dashboard/static/js/main.27475377.js",
+    "static/js/453.98402c35.chunk.js": "/login-signup-dashboard/static/js/453.98402c35.chunk.js",
+    "static/media/social.png": "/login-signup-dashboard/static/media/social.826c416eb46c0392761a.png",
+    "static/media/google.png": "/login-signup-dashboard/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/twitter.png": "/login-signup-dashboard/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/apple.png": "/login-signup-dashboard/static/media/apple.1511c3d419cb16aec154.png",
+    "index.html": "/login-signup-dashboard/index.html",
+    "main.b4cf9ec2.css.map": "/login-signup-dashboard/static/css/main.b4cf9ec2.css.map",
+    "main.27475377.js.map": "/login-signup-dashboard/static/js/main.27475377.js.map",
+    "453.98402c35.chunk.js.map": "/login-signup-dashboard/static/js/453.98402c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4cf9ec2.css",
+    "static/js/main.27475377.js"
+  ]
+}
